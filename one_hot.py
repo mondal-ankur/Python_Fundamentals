@@ -10,6 +10,3 @@ def one_hot(df,col):
     df.drop(i,axis=1, inplace=True) #droping any one column
     return df
 
-    #allow to add prefix
-    #allow multiple column
-    #reduce time complexity
