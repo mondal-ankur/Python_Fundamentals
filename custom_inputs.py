@@ -9,3 +9,6 @@ def cust_input(d, na=None):
         except:
             lst[i]=na
     return lst
+
+
+#list(map(int, input().rstrip().split()))
