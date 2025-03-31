@@ -1,2 +1,5 @@
 # ignore environment folder
 env
+
+# ignore git file
+.gitignore
